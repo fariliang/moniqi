@@ -9,6 +9,7 @@
 
 ## 异能 <a href="#psychic" id="psychic"></a>
 
+* [异能者原理](psychic/yi-neng-zhe-yuan-li.md)
 * [异能者等级](psychic/yi-neng-zhe-deng-ji.md)
 * [异能者技能](psychic/yi-neng-zhe-ji-neng.md)
 
