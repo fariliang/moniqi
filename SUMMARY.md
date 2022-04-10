@@ -15,6 +15,10 @@
 * [异能者等级](psychic/yi-neng-zhe-deng-ji.md)
 * [异能者技能](psychic/yi-neng-zhe-ji-neng.md)
 
+## 组织 <a href="#organization" id="organization"></a>
+
+* [其他组织](organization/qi-ta-zu-zhi.md)
+
 ## 地理 <a href="#geography" id="geography"></a>
 
 * [星核系五文明](geography/xing-he-xi-wu-wen-ming.md)
