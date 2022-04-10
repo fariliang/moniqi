@@ -5,6 +5,7 @@
 ## 人物 <a href="#character" id="character"></a>
 
 * [人类](character/ren-lei.md)
+* [扎拉克虫族](character/za-la-ke-chong-zu.md)
 
 ## 异能 <a href="#psychic" id="psychic"></a>
 
