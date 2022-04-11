@@ -8,6 +8,7 @@
   * [谢浩](character/ren-lei/xie-hao.md)
   * [雷古勒斯](character/ren-lei/lei-gu-le-si.md)
   * [美达拉](character/ren-lei/mei-da-la.md)
+  * [越星宇](character/ren-lei/yue-xing-yu.md)
 * [扎拉克虫族](character/za-la-ke-chong-zu.md)
 
 ## 异能 <a href="#psychic" id="psychic"></a>
