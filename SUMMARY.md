@@ -23,4 +23,4 @@
 
 ## 地理 <a href="#geography" id="geography"></a>
 
-* [星核系五文明](geography/xing-he-xi-wu-wen-ming.md)
+* [星核系六文明](geography/xing-he-xi-liu-wen-ming.md)
