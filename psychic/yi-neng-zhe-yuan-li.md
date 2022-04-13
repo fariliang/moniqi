@@ -30,3 +30,9 @@ The Birth of the Contaminated
 The Birth of the Mutated
 
 退化者是精神崩溃的异能者。他们将退化到无法讲话，痴呆木讷，几乎成为一具行走的尸体。退化者会被关进精神病院。
+
+## 破例者的产生
+
+The Birth of the Code Breaker
+
+破例者每一千年才会出现一个，是一种使用特殊异能的个体。集体无意识对这种个体非常慷慨，也常在命运中捉弄破例者。
