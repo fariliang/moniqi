@@ -1,5 +1,8 @@
 ---
 description: Warrior Bard
+cover: >-
+  https://images.unsplash.com/photo-1473186505569-9c61870c11f9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxwb2V0cnl8ZW58MHx8fHwxNjUwMjA1OTI2&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 战斗诗人

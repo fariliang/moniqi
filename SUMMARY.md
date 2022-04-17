@@ -20,6 +20,7 @@
 ## 职业 <a href="#class" id="class"></a>
 
 * [战斗诗人](class/zhan-dou-shi-ren.md)
+* [星际骑士](class/xing-ji-qi-shi.md)
 
 ## 组织 <a href="#organization" id="organization"></a>
 
