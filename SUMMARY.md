@@ -17,6 +17,10 @@
 * [异能者等级](psychic/yi-neng-zhe-deng-ji.md)
 * [异能者技能](psychic/yi-neng-zhe-ji-neng.md)
 
+## 职业 <a href="#class" id="class"></a>
+
+* [战斗诗人](class/zhan-dou-shi-ren.md)
+
 ## 组织 <a href="#organization" id="organization"></a>
 
 * [其他组织](organization/qi-ta-zu-zhi.md)
