@@ -36,3 +36,9 @@ The Birth of the Mutated
 The Birth of the Code Breaker
 
 破例者每一千年才会出现一个，是一种使用特殊异能的个体。集体无意识对这种个体非常慷慨，也常在命运中捉弄破例者。
+
+## 反叛者的产生&#x20;
+
+The Birth of the Rebels
+
+反叛者是没有在异能管理局登记在案的异能者，他们不认为异能者要被登记管理。他们追求自由，也有时成为了极端分子。
