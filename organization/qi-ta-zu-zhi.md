@@ -48,3 +48,9 @@ Psychic Research Institute
 Front of the Anti-psychic
 
 他们煽动人民反对异能者，对异能者不信任。还有杀死年轻异能者，以减少异能者的数量。他们甚至发动对零号元素矿井的袭击。
+
+## 烈性退化者&#x20;
+
+Violent Tuihua
+
+这种烈性退化者，会咬伤正常人，导致正常人也退化成行尸走肉。他们就是行走的异能丧尸。
